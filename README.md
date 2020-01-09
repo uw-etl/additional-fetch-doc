@@ -1,2 +1,2 @@
 # fetch-doc
-documentation for fetch robots
+Fetch documentation on github available at https://github.com/fetchrobotics
